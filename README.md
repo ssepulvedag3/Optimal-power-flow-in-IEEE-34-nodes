@@ -1,2 +1,2 @@
 # Optimal-power-flow-in-IEEE-34-nodes
-Este repositorio contiene el flujo de carga óptimo aplicado al sistema IEEE de 34 nodos modificado
+This repository contains the OPF for the modified monophase IEEE-34 nodes, the convex approximations are Linear, Second Order Cone and Semidefinite Programming, some DGs has been added. They are solved using CvxPy and ECOS. Furthermore, the exact model is solved making use of Pyomo and Ipopt.
